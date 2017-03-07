@@ -5,6 +5,7 @@ Arduino project. Contains solution for RGB LED module.
 
 # Download
 Source: <b>[RadianceLEDsArduino.ino](https://rgladkyi.github.io/RadianceLEDs/RadianceLEDsArduino/RadianceLEDsArduino.ino)</b>
+<br/>
 Git: <b>git clone https://github.com/rgladkyi/RadianceLEDs.git</b>
 
 ## Description
