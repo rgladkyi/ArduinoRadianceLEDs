@@ -1,4 +1,4 @@
-<img src="Resources/RadianceLEDs_main_logo.jpg" alt="hi" width="256" class="inline"/>
+<img src="Resources/Images/RadianceLEDs_main_logo.png" alt="hi" width="256" class="inline"/>
 
 # RadianceLEDs
 Arduino project. Contains solution for RGB LED module.
