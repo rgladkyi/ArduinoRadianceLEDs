@@ -3,6 +3,8 @@
 # RadianceLEDs
 Arduino project. Contains solution for RGB LED module.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bg5zBZLSKK0" frameborder="0" allowfullscreen></iframe>
+
 # Download
 Source: <b>[RadianceLEDsArduino.ino](https://rgladkyi.github.io/RadianceLEDs/RadianceLEDsArduino/RadianceLEDsArduino.ino)</b>
 <br/>
